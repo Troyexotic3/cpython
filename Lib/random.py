@@ -1,6 +1,19 @@
-"""Random variable generators.
+#Import random
+"""MISSING CODE"""
 
-    bytes
+print("I give lucky numbers between 0 and 100.")
+print("Press ENTER to get your lucky number.")
+input() #Waiting until ENTER is pressed
+
+#Generate a lucky number between 0 and 100 (inclusive) using
+#random.random()
+#random.random() returns a float value greater than or equal to 0.0
+#and less than 1.0.
+#Store the number as a variable
+#Hint: May have to use type casting (int()) and an expression.
+"""MISSING CODE"""
+
+print("I give lucky numbers between 0 and 100.")
     -----
            uniform bytes (values between 0 and 255)
 
